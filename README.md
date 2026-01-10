@@ -2,7 +2,7 @@
 ## Overview
 This project performs website content summarization. It scrapes the latest news articles from a public news website and utilizes a Large Language Model(LLM) to generate concise summaries.
 The program is designed to run on Jupyter notebook with markdown rendering.
-
+<img src="hero_banner.png" >
 ## Prerequisites
 * Python 3.9 or higher  - https://www.python.org
 * Groq API key  - https://groq.com
